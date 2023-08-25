@@ -147,7 +147,7 @@ class AuthPolicy(object):
         if resource[:1] == "/":
             resource = resource[1:]
 
-        resourceArn = ("arn:aws:execute-api:" +
+        resourceArn = ("arn:aws-us-gov:execute-api:" +
             self.region + ":" +
             self.awsAccountId + ":" +
             self.restApiId + "/" +

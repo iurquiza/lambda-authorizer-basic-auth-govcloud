@@ -1,5 +1,6 @@
 # lambda-authorizer-basic-auth
 
+This repository was forked from https://github.com/phspies/lambda-authorizer-basic-auth.
 This is a sample template for lambda-authorizer-basic-auth - Below is a brief explanation of what we have generated for you:
 
 ```bash
